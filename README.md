@@ -31,10 +31,10 @@
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
 	<a href="https://www.instagram.com/h_w_03/">
-		<img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=Gmail&logoColor=white" />
+		<img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
 	</a>
 	<a href="https://www.facebook.com/profile.php?id=100028339580243">
-		<img src="https://img.shields.io/badge/facebook-0866FF?style=flat&logo=Notion&logoColor=white" />
+		<img src="https://img.shields.io/badge/facebook-0866FF?style=flat&logo=Facebook&logoColor=white" />
 	</a>
 	<br>
 </div>
