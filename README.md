@@ -1,6 +1,10 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=현우의%20Github!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyeonu's%20Github!&fontSize=90" />	
 </div>
+# 𝙃𝙚𝙡𝙡𝙤! 𝙉𝙞𝙘𝙚 𝙩𝙤 𝙢𝙚𝙚𝙩 𝙮𝙤𝙪!
+Welcome to my page! <br/>
+I'm Hyeonu.<br\>
+I'm a syudent and living in Seoul,Korea.
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
