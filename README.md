@@ -52,7 +52,7 @@ I'm a syudent and living in Seoul,Korea.
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shw0391)](https://solved.ac/kycasdzxc)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shw0391)](https://solved.ac/shw0391)
 </div>
 <br>
 
