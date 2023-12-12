@@ -4,7 +4,7 @@
 <div align=center>
 Welcome to my page! <br/>
 I'm Hyeonu.<br\>
-I'm a syudent and living in Seoul,Korea.
+I'm a student and living in Seoul,Korea.
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
